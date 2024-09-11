@@ -1,0 +1,8 @@
+{
+  "name": "Core-Cutter",
+  "description": "Sets the system core-count for battery savings.",
+  "uuid": "corecutter@mpeters9.unb.ca",
+  "shell-version": [
+    "46"
+  ]
+}
