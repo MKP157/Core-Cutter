@@ -1,7 +1,7 @@
 # Core Cutter 🔪
 A GNOME Shell Extension which allows you to select active CPU cores. Made with the intention of improving battery life with my gaming laptop, which I use for school.
 
-![](https://github.com/MKP157/Core-Cutter/demo.gif)
+![](https://github.com/MKP157/Core-Cutter/blob/main/demo.gif)
 
 Please note that this is **not a professional piece of software.** I made this on a whim purely to experiment. **It makes extensive use of root priveleges to change system files, as that is how cores are set as either online/offline in Linux.** Therefore:
 
